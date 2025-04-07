@@ -4,7 +4,7 @@ I’m a Tanzanian tech enthusiast, software developer, and founder of InterSoftH
 
 ---
 
-👨‍💻 I specialize in: Python | Django | Yii2 | JavaScript | REST APIs | AI Integration | Mobile & Web App Development
+👨‍💻 I specialize in: Python | Django | Laravel | Vue.js | REST APIs | AI Integration | Mobile & Web App Development 
 🌱 Currently learning: GPT-based AI models, DevOps (Docker + AWS), and cloud-first architecture
 🔭 Current Projects:
   UDOM Admission Chatbot using GPT4All & Hugging Face
